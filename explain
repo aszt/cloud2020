@@ -1,0 +1,17 @@
+cloud2020中各Module说明
+
+cloud-api-commons-公共数据
+
+cloud-consumer-order80(OrderMain80)-----Eureka服务消费者
+
+cloud-eureka-server7001(EurekaMain7001)-----Eureka注册中心
+
+cloud-eureka-server7002(EurekaMain7002)-----Eureka注册中心
+
+cloud-provider-payment8001(PaymentMain8001)-----Eureka服务提供者
+
+cloud-provider-payment8002(PaymentMain8002)-----Eureka服务提供者
+
+cloud-provider-payment8004(PaymentMain8004)-----Zookeeper服务提供者
+
+cloud-consumerzk-order80(OrderZKMain80)-----Zookeeper服务消费者
