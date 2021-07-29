@@ -25,3 +25,5 @@ cloud-consumer-feign-order80(OrderFeignMain80)-----openFeign服务消费者
 cloud-provider-hystrix-payment8001(PaymentHystrixMain8001)-----hystrix服务提供者（熔断写在这里）
 
 cloud-consumer-feign-hystrix-order80(OrderHystrixMain80)-----hystrix服务消费者（hystrix可加在服务或消费者模块里，一般加在消费方）
+
+cloud-comsumer-hystrix-dashboard9001(HystrixDashboardMain9001)-----hystrix图形化Dashboard监控
