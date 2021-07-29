@@ -21,3 +21,7 @@ cloud-providerconsul-payment8006(PaymentMain8006)-----Consul服务提供者
 cloud-consumerconsul-order80(OrderConsulMain80)-----Consul服务消费者
 
 cloud-consumer-feign-order80(OrderFeignMain80)-----openFeign服务消费者
+
+cloud-provider-hystrix-payment8001(PaymentHystrixMain8001)-----hystrix服务提供者（熔断写在这里）
+
+cloud-consumer-feign-hystrix-order80(OrderHystrixMain80)-----hystrix服务消费者（hystrix可加在服务或消费者模块里，一般加在消费方）
