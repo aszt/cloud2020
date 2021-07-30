@@ -33,3 +33,5 @@ cloud-gateway-gateway9527(GatewayMain9527)-----服务网关
 cloud-config-center-3344(ConfigMain3344)-----分布式配置中心服务端
 
 cloud-config-client-3355(ConfigClientMain3355)-----分布式配置中心客户端
+
+cloud-config-client-3366(ConfigClientMain3366)-----分布式配置中心客户端
