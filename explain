@@ -29,3 +29,7 @@ cloud-consumer-feign-hystrix-order80(OrderHystrixMain80)-----hystrix服务消费
 cloud-comsumer-hystrix-dashboard9001(HystrixDashboardMain9001)-----hystrix图形化Dashboard监控
 
 cloud-gateway-gateway9527(GatewayMain9527)-----服务网关
+
+cloud-config-center-3344(ConfigMain3344)-----分布式配置中心服务端
+
+cloud-config-client-3355(ConfigClientMain3355)-----分布式配置中心客户端
