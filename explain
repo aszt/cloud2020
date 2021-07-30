@@ -28,4 +28,4 @@ cloud-consumer-feign-hystrix-order80(OrderHystrixMain80)-----hystrix服务消费
 
 cloud-comsumer-hystrix-dashboard9001(HystrixDashboardMain9001)-----hystrix图形化Dashboard监控
 
-cloud-gateway-gateway9527(HystrixDashboardMain9001)-----服务网关
+cloud-gateway-gateway9527(GatewayMain9527)-----服务网关
