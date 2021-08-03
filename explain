@@ -35,3 +35,9 @@ cloud-config-center-3344(ConfigMain3344)-----分布式配置中心服务端
 cloud-config-client-3355(ConfigClientMain3355)-----分布式配置中心客户端
 
 cloud-config-client-3366(ConfigClientMain3366)-----分布式配置中心客户端
+
+cloud-stream-rabbitmq-provider8801(StreamMQMain8801)-----Stream消息提供方
+
+cloud-stream-rabbitmq-consumer8802(StreamMQMain8802)-----Stream消息消费方
+
+cloud-stream-rabbitmq-consumer8803(StreamMQMain8803)-----Stream消息消费方
