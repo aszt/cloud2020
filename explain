@@ -47,3 +47,5 @@ cloudalibaba-provider-payment9001(PaymentMain9001)-----nacos服务提供方
 cloudalibaba-provider-payment9002(PaymentMain9002)-----nacos服务提供方
 
 cloudalibaba-consumer-nacos-order83(OrderNacosMain83)-----nacos服务消费方
+
+cloudalibaba-config-nacos-client3377(NacosConfigClientMain3377)-----nacos-config配置中心
