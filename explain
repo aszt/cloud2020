@@ -51,3 +51,13 @@ cloudalibaba-consumer-nacos-order83(OrderNacosMain83)-----nacos服务消费方
 cloudalibaba-config-nacos-client3377(NacosConfigClientMain3377)-----nacos-config配置中心
 
 cloudalibaba-sentinel-service8401(MainApp8401)-----sentinel流控降级
+
+##########sentinel整合ribbon+openFeign+fallback#########
+一、Ribbon系列
+（1）服务提供者：
+cloudalibaba-provider-payment9003(PaymentMain9003)
+cloudalibaba-provider-payment9004(PaymentMain9004)
+（2）服务消费者
+cloudalibaba-consumer-nacos-order84(OrderNacosMain84)
+
+二、Feign系列，修改84
