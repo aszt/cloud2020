@@ -61,3 +61,8 @@ cloudalibaba-provider-payment9004(PaymentMain9004)
 cloudalibaba-consumer-nacos-order84(OrderNacosMain84)
 
 二、Feign系列，修改84
+
+##########分布式事务seata#########
+seata-order-service2001     下订单
+seata-storage-service2002   减库存
+seata-account-service2003   扣余额
